@@ -9,3 +9,10 @@ var accountEmail ="bhurewallabhesh05@gmail.com"
 
 */
 console.table([accountEmail,accountId])
+
+
+//number => 2 to power 53 
+//big int 
+//  string => ""
+//  boolean => true or false 
+//  null => stand alone 
