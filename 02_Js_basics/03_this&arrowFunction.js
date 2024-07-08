@@ -27,6 +27,8 @@ function chai(){
 const addTWo =(num1,num3)=>(num1 + num3)//implicit
 
 
-console.log(addTWo(6,5)); 
+// console.log(addTWo(6,5));
+
+
 
 
